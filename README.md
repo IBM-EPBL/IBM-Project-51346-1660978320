@@ -14,4 +14,4 @@
 7.When to discontinue a product
 8.How changing seasons affect sales
 
-<center>![](https://static01.nyt.com/images/2020/02/16/business/16VIEW/16VIEW-articleLarge.gif?quality=75&auto=webp&disable=upscale)</center>
+<center img scr=https://static01.nyt.com/images/2020/02/16/business/16VIEW/16VIEW-articleLarge.gif?quality=75&auto=webp&disable=upscale></center>
