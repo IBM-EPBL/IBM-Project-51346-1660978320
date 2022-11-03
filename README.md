@@ -30,4 +30,4 @@
 ![](https://static01.nyt.com/images/2020/02/16/business/16VIEW/16VIEW-articleLarge.gif?quality=75&auto=webp&disable=upscale)
 
 
-![ NO OF VISTED PEOPLES](https://komarev.com/ghpvc/?username=IBM-Project-51346-1660978320&label=PROFILE+VIEWS)  
+![](https://komarev.com/ghpvc/?username=IBM-Project-51346-1660978320&label=PROFILE+VIEWS)  
